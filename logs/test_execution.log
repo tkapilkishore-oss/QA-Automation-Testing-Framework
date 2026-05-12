@@ -1,0 +1,20 @@
+2026-05-13 01:02:16,731 - INFO - Starting VALID LOGIN TEST
+2026-05-13 01:02:17,163 - INFO - Opened SauceDemo website
+2026-05-13 01:02:17,283 - INFO - Entered username
+2026-05-13 01:02:17,352 - INFO - Entered password
+2026-05-13 01:02:17,506 - INFO - Clicked login button
+2026-05-13 01:02:19,515 - INFO - VALID LOGIN TEST PASSED
+2026-05-13 01:02:19,515 - INFO - Closing browser
+2026-05-13 01:02:29,048 - INFO - INVALID LOGIN TEST PASSED
+2026-05-13 01:02:38,248 - INFO - EMPTY USERNAME TEST PASSED
+2026-05-13 01:30:23,253 - INFO - Starting VALID LOGIN TEST
+2026-05-13 01:30:23,338 - INFO - Opened SauceDemo website
+2026-05-13 01:30:24,102 - INFO - Entered username
+2026-05-13 01:30:24,222 - INFO - Entered password
+2026-05-13 01:30:24,408 - INFO - Clicked login button
+2026-05-13 01:30:26,434 - ERROR - VALID LOGIN TEST FAILED: assert 'wrong_text' in 'https://www.saucedemo.com/inventory.html'
+ +  where 'https://www.saucedemo.com/inventory.html' = <selenium.webdriver.chrome.webdriver.WebDriver (session="3cab14047589876478291f237e511094")>.current_url
+2026-05-13 01:30:26,571 - INFO - Closing browser
+2026-05-13 01:30:36,173 - INFO - INVALID LOGIN TEST PASSED
+2026-05-13 01:30:45,690 - INFO - EMPTY USERNAME TEST PASSED
+2026-05-13 01:30:55,124 - INFO - EMPTY PASSWORD TEST PASSED
